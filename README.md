@@ -1,6 +1,5 @@
-<p align="center"># 🏠 Hello, World! I'm Zakhar</p>
+<p align="center"> # 🏠 Hello, World! I'm Zakhar </p>
 ### Junior Backend Developer from Ukraine specializing in Python and Django framework
-
 
 ## 📲 My Links
 
